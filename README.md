@@ -10,11 +10,10 @@ This is a responsive clone of the Razorpay website, built using HTML and Tailwin
 - [Getting Started 🚀](#getting-started)
 - [Usage 📋](#usage)
 - [Contributing 🤝](#contributing)
-- [License 📝](#license)
 
 ## Demo 🌐
 
-You can see a live demo of this project [here](#).
+You can see a live demo of this project [here](https://tailwind-rzzorpay-clone.netlify.app/).
 
 ## Features 🌟
 
@@ -34,7 +33,7 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/razorpay_clone.git
+   git clone https://github.com/your-username/tailwind_RazorPay_Clone.git
    ```
 
 2. Open the project folder in your code editor.
